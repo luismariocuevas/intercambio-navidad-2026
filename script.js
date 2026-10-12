@@ -1,6 +1,6 @@
 const personas = [
   {
-    nombre: "Juan Pérez",
+    nombre: "Luis Mario",
     regalos: [
       {
         nombre: "Audífonos Sony",
