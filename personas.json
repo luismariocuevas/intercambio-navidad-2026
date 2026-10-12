@@ -9,9 +9,9 @@
   {
     "nombre": "Emilio",
     "regalos": [
-      { "nombre": "Opción 1", "link": "#" },
-      { "nombre": "Opción 2", "link": "#" },
-      { "nombre": "Opción 3", "link": "#" }
+      { "nombre": "Opcion 1", "link": "#" },
+      { "nombre": "Opcion 2", "link": "#" },
+      { "nombre": "Opcion 3", "link": "#" }
     ]
   },
   {
@@ -112,9 +112,9 @@
   {
     "nombre": "Luis Mario",
     "regalos": [
-      { "nombre": "Opción 1", "link": "https://www.amazon.com.mx/gp/product/B08XJSFDY2/ref=ewc_pr_img_1?smid=A29QI9OW026IXY&psc=1" },
-      { "nombre": "Opción 2", "link": "https://www.amazon.com.mx/gp/product/B07K1BW1XY/ref=ewc_pr_img_1?smid=AWXS086SB3NIZ&th=1" },
-      { "nombre": "Opción 3", "link": "https://www.amazon.com.mx/gp/product/B000C21488/ref=ewc_pr_img_1?smid=AVDBXBAVVSXLQ&th=1" }
+      { "nombre": "Salvatore Ferragamo Intense Leather", "link": "https://www.amazon.com.mx/gp/product/B08XJSFDY2/ref=ewc_pr_img_1?smid=A29QI9OW026IXY&psc=1" },
+      { "nombre": "Montblanc - Agua de perfume espray", "link": "https://www.amazon.com.mx/gp/product/B07K1BW1XY/ref=ewc_pr_img_1?smid=AWXS086SB3NIZ&th=1" },
+      { "nombre": "HUGO BOSS Number One", "link": "https://www.amazon.com.mx/gp/product/B000C21488/ref=ewc_pr_img_1?smid=AVDBXBAVVSXLQ&th=1" }
     ]
   },
   {
