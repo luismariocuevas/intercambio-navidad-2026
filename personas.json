@@ -26,18 +26,15 @@
   "nombre": "Ale",
   "regalos": [
     {
-      "titulo": "Opción 1",
-      "articulos": [
-        {
-          "nombre": "Rizador Automático Antiquemaduras",
-          "link": "https://a.co/d/0fXBMXPH"
-        },
-        {
-          "nombre": "Riporta Nero D'Avola Vino Tinto 750ml",
-          "link": "https://a.co/d/07kMTqEo"
-        }
-      ]
+      "nombre": "Rizador Automático Antiquemaduras",
+      "link": "https://www.amazon.com.mx/dp/B0CPDDJCSQ"
+    },
+    {
+      "nombre": "Riporta Nero D'Avola Vino Tinto 750ml",
+      "link": "https://www.amazon.com.mx/dp/B0CLP9GWNC"
     }
+  ]
+}
   ]
 },
   {
