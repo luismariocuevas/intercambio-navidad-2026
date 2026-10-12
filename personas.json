@@ -27,12 +27,17 @@
   "nombre": "Ale",
   "regalos": [
     {
-      "nombre": "Closet organizador",
-      "link": "https://mercadolibre.com/closet"
-    },
-    {
-      "nombre": "Cajas organizadoras",
-      "link": "https://mercadolibre.com/cajas"
+      "titulo": "Opción 1",
+      "articulos": [
+        {
+          "nombre": "Closet organizador",
+          "link": "https://mercadolibre.com/closet"
+        },
+        {
+          "nombre": "Cajas organizadoras",
+          "link": "https://mercadolibre.com/cajas"
+        }
+      ]
     }
   ]
 },
