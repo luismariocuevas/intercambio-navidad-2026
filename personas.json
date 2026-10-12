@@ -1,1 +1,154 @@
-
+[
+  {
+    "nombre": "Gaby",
+    "regalos": [
+      { "nombre": "Opción 1", "link": "#" },
+      { "nombre": "Opción 2", "link": "#" },
+      { "nombre": "Opción 3", "link": "#" }
+    ]
+  },
+  {
+    "nombre": "Emilio",
+    "regalos": [
+      { "nombre": "Opción 1", "link": "#" },
+      { "nombre": "Opción 2", "link": "#" },
+      { "nombre": "Opción 3", "link": "#" }
+    ]
+  },
+  {
+    "nombre": "Natalia",
+    "regalos": [
+      { "nombre": "Opción 1", "link": "#" },
+      { "nombre": "Opción 2", "link": "#" },
+      { "nombre": "Opción 3", "link": "#" }
+    ]
+  },
+  {
+    "nombre": "Ale",
+    "regalos": [
+      { "nombre": "Opción 1", "link": "#" },
+      { "nombre": "Opción 2", "link": "#" },
+      { "nombre": "Opción 3", "link": "#" }
+    ]
+  },
+  {
+    "nombre": "Andres",
+    "regalos": [
+      { "nombre": "Opción 1", "link": "#" },
+      { "nombre": "Opción 2", "link": "#" },
+      { "nombre": "Opción 3", "link": "#" }
+    ]
+  },
+  {
+    "nombre": "Leoponcio",
+    "regalos": [
+      { "nombre": "Opción 1", "link": "#" },
+      { "nombre": "Opción 2", "link": "#" },
+      { "nombre": "Opción 3", "link": "#" }
+    ]
+  },
+  {
+    "nombre": "Marylu",
+    "regalos": [
+      { "nombre": "Opción 1", "link": "#" },
+      { "nombre": "Opción 2", "link": "#" },
+      { "nombre": "Opción 3", "link": "#" }
+    ]
+  },
+  {
+    "nombre": "Paola",
+    "regalos": [
+      { "nombre": "Opción 1", "link": "#" },
+      { "nombre": "Opción 2", "link": "#" },
+      { "nombre": "Opción 3", "link": "#" }
+    ]
+  },
+  {
+    "nombre": "Vania",
+    "regalos": [
+      { "nombre": "Opción 1", "link": "#" },
+      { "nombre": "Opción 2", "link": "#" },
+      { "nombre": "Opción 3", "link": "#" }
+    ]
+  },
+  {
+    "nombre": "Chilaca",
+    "regalos": [
+      { "nombre": "Opción 1", "link": "#" },
+      { "nombre": "Opción 2", "link": "#" },
+      { "nombre": "Opción 3", "link": "#" }
+    ]
+  },
+  {
+    "nombre": "Mia",
+    "regalos": [
+      { "nombre": "Opción 1", "link": "#" },
+      { "nombre": "Opción 2", "link": "#" },
+      { "nombre": "Opción 3", "link": "#" }
+    ]
+  },
+  {
+    "nombre": "Danna",
+    "regalos": [
+      { "nombre": "Opción 1", "link": "#" },
+      { "nombre": "Opción 2", "link": "#" },
+      { "nombre": "Opción 3", "link": "#" }
+    ]
+  },
+  {
+    "nombre": "Diana",
+    "regalos": [
+      { "nombre": "Opción 1", "link": "#" },
+      { "nombre": "Opción 2", "link": "#" },
+      { "nombre": "Opción 3", "link": "#" }
+    ]
+  },
+  {
+    "nombre": "Giovanna",
+    "regalos": [
+      { "nombre": "Opción 1", "link": "#" },
+      { "nombre": "Opción 2", "link": "#" },
+      { "nombre": "Opción 3", "link": "#" }
+    ]
+  },
+  {
+    "nombre": "Luis Mario",
+    "regalos": [
+      { "nombre": "Opción 1", "link": "#" },
+      { "nombre": "Opción 2", "link": "#" },
+      { "nombre": "Opción 3", "link": "#" }
+    ]
+  },
+  {
+    "nombre": "Karla",
+    "regalos": [
+      { "nombre": "Opción 1", "link": "#" },
+      { "nombre": "Opción 2", "link": "#" },
+      { "nombre": "Opción 3", "link": "#" }
+    ]
+  },
+  {
+    "nombre": "Lupe",
+    "regalos": [
+      { "nombre": "Opción 1", "link": "#" },
+      { "nombre": "Opción 2", "link": "#" },
+      { "nombre": "Opción 3", "link": "#" }
+    ]
+  },
+  {
+    "nombre": "Pepe",
+    "regalos": [
+      { "nombre": "Opción 1", "link": "#" },
+      { "nombre": "Opción 2", "link": "#" },
+      { "nombre": "Opción 3", "link": "#" }
+    ]
+  },
+  {
+    "nombre": "Silvia",
+    "regalos": [
+      { "nombre": "Opción 1", "link": "#" },
+      { "nombre": "Opción 2", "link": "#" },
+      { "nombre": "Opción 3", "link": "#" }
+    ]
+  }
+]
