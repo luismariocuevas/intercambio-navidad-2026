@@ -26,8 +26,8 @@
   {
     "nombre": "Ale",
     "regalos": [
-      { "nombre": "Opción 1", "link": "#" },
-      { "nombre": "Opción 2", "link": "#" },
+      { "nombre": "Opción 1", "link": "https://www.amazon.com.mx/dp/B0CPDDJCSQ?ref=cm_sw_r_cso_wa_apan_dp_T316VGHNC673VAKTFZEJ&ref_=cm_sw_r_cso_wa_apan_dp_T316VGHNC673VAKTFZEJ&social_share=cm_sw_r_cso_wa_apan_dp_T316VGHNC673VAKTFZEJ" },
+      { "nombre": "Opción 2", "link": "https://www.amazon.com.mx/dp/B0CLP9GWNC" },
       { "nombre": "Opción 3", "link": "#" }
     ]
   },
