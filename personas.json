@@ -24,13 +24,18 @@
     ]
   },
   {
-    "nombre": "Ale",
-    "regalos": [
-      { "nombre": "Opción 1", "link": "#" },
-      { "nombre": "Opción 2", "link": "#" },
-      { "nombre": "Opción 3", "link": "#" }
-    ]
-  },
+  "nombre": "Ale",
+  "regalos": [
+    {
+      "nombre": "Rizador Automático Antiquemaduras",
+      "link": "https://www.amazon.com.mx/dp/B0CPDDJCSQ"
+    },
+    {
+      "nombre": "Riporta Nero D'Avola Vino Tinto 750ml",
+      "link": "https://www.amazon.com.mx/dp/B0CLP9GWNC?ref=cm_sw_r_cso_wa_apan_dp_2CHEX93HGJXQQXGFSJAK&ref_=cm_sw_r_cso_wa_apan_dp_2CHEX93HGJXQQXGFSJAK&social_share=cm_sw_r_cso_wa_apan_dp_2CHEX93HGJXQQXGFSJAK"
+    }
+  ]
+}
   {
     "nombre": "Andres",
     "regalos": [
