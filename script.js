@@ -17,7 +17,7 @@ const personas = [
     ]
   },
   {
-    nombre: "Ana López",
+    nombre: "Diana Torres",
     regalos: [
       {
         nombre: "Perfume",
