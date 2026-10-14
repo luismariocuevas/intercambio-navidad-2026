@@ -38,9 +38,9 @@
   {
     "nombre": "Andres",
     "regalos": [
-      { "nombre": "Opción 1", "link": "#" },
-      { "nombre": "Opción 2", "link": "#" },
-      { "nombre": "Opción 3", "link": "#" }
+      { "nombre": "Tenis Puma Rickie Classic", "link": "https://www.amazon.com.mx/gp/product/B0D7HVZP6B/ref=ewc_pr_img_1?smid=AVDBXBAVVSXLQ&th=1&psc=1" },
+      { "nombre": "Coche Todoterreno de Control Remoto", "link": "https://www.amazon.com.mx/gp/product/B0DCC16565/ref=ewc_pr_img_1?smid=AUHPXWCYSN7L6&psc=1" },
+      { "nombre": "Juego de cortapelos 4 en 1", "link": "https://www.amazon.com.mx/gp/product/B0H54TVRQ7/ref=ewc_pr_img_1?smid=A1G99GVHAT2WD8&psc=1" }
     ]
   },
   {
