@@ -57,17 +57,10 @@ select {
 }
 
 .saludo-navidad {
-    position: fixed;
-    bottom: 30px;
-    left: 50%;
-    transform: translateX(-50%);
-
     width: 90%;
     max-width: 800px;
-
     text-align: center;
     color: white;
-
     font-size: 24px;
     font-weight: bold;
 
@@ -75,8 +68,6 @@ select {
         0 0 10px #fff,
         0 0 20px #ffd700,
         0 0 30px #ffd700;
-
-    z-index: 10;
 }
 .comida-container {
     max-width: 700px;
