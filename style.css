@@ -78,3 +78,32 @@ select {
 
     z-index: 10;
 }
+.comida-container {
+    max-width: 700px;
+    margin: 30px auto;
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.9);
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.comida-container h2 {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.lista-comida {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.lista-comida li {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+    font-size: 18px;
+}
+
+.lista-comida li:last-child {
+    border-bottom: none;
+}
