@@ -53,9 +53,9 @@
   {
     "nombre": "Andres",
     "regalos": [
-      { "nombre": "Detalles Color negro Talla 8.5", "link": "https://www.amazon.com.mx/gp/product/B0D7HVZP6B/ref=ewc_pr_img_1?smid=AVDBXBAVVSXLQ&th=1&psc=1" },
-      { "nombre": "Kit De Sprocket De Arrastre Para Moto Veloci Razzer 200", "link": "https://www.mercadolibre.com.mx/up/MLMU3170507233?matt_tool=17030900&pdp_filters=item_id:MLM2309119149&ua=e7FPOtiZZi1lDFPavTuexZDAg5v6FOo4sZwiIrW4W3_PLXHV#origin=share&sid=share&wid=MLM2309119149&action=whatsapp" },
-      { "nombre": "Juego de cortapelos 4 en 1", "link": "https://www.amazon.com.mx/gp/product/B0H54TVRQ7/ref=ewc_pr_img_1?smid=A1G99GVHAT2WD8&psc=1" }
+      { "opcion": 1, "nombre": "Detalles Color negro Talla 8.5", "link": "https://www.amazon.com.mx/gp/product/B0D7HVZP6B/ref=ewc_pr_img_1?smid=AVDBXBAVVSXLQ&th=1&psc=1" },
+      { "opcion": 2, "nombre": "Kit De Sprocket De Arrastre Para Moto Veloci Razzer 200", "link": "https://www.mercadolibre.com.mx/up/MLMU3170507233?matt_tool=17030900&pdp_filters=item_id:MLM2309119149&ua=e7FPOtiZZi1lDFPavTuexZDAg5v6FOo4sZwiIrW4W3_PLXHV#origin=share&sid=share&wid=MLM2309119149&action=whatsapp" },
+      { "opcion": 3, "nombre": "Juego de cortapelos 4 en 1", "link": "https://www.amazon.com.mx/gp/product/B0H54TVRQ7/ref=ewc_pr_img_1?smid=A1G99GVHAT2WD8&psc=1" }
     ]
   },
   {
