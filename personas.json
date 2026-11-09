@@ -25,9 +25,9 @@
   {
     "nombre": "Natalia",
     "regalos": [
-      { "nombre": "Opción 1", "link": "#" },
-      { "nombre": "Opción 2", "link": "#" },
-      { "nombre": "Opción 3", "link": "#" }
+      { "opcion": 1, "nombre": "Somos 2pack", "link": "https://www.amazon.com.mx/gp/product/B0GMYY6G1X/ref=ox_sc_act_title_1?smid=A2WFCCRZ9TPSGM&psc=1&tag=drawnamesmx-20&dn_platform=url" },
+      { "opcion": 2, "nombre": "For 13.3 - 14 Mac Pro / Mac Air Color Marron Moca ", "link": "https://www.amazon.com.mx/port%C3%A1til-pulgadas-sint%C3%A9tica-compatible-MacBook/dp/B0GFD468WK/ref=asc_df_B0GFD468WK?mcid=12c360173f0e37fb9e152fd2feb98128&tag=gledskshopmx-20&linkCode=df0&hvadid=792009056633&hvpos=&hvnetw=g&hvrand=12668509620559185793&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9214458&hvtargid=pla-2466624419214&hvocijid=12668509620559185793-B0GFD468WK-&hvexpln=0&language=es_MX&th=1" },
+      { "opcion": 3, "nombre": "Opción 3", "link": "#" }
     ]
   },
   {
@@ -61,104 +61,104 @@
   {
     "nombre": "Leoponcio",
     "regalos": [
-      { "nombre": "Varios articulos como Opcion 1", "link": "https://www.mercadolibre.com.mx/gz/cart/v2/shared-cart?key=9bcdfa3184e0019b86f946898f8987198d0409da7eb6a2f5a3ff7210795816a1&matt_tool=17030900&ua=xn3ltBvRct8LZ-fJDVPjPN4Wf-i5paRiY-d5aLQRLsjADPXE#action=whatsapp" }
+      { "opcion": 1, "nombre": "Varios articulos como Opcion 1", "link": "https://www.mercadolibre.com.mx/gz/cart/v2/shared-cart?key=9bcdfa3184e0019b86f946898f8987198d0409da7eb6a2f5a3ff7210795816a1&matt_tool=17030900&ua=xn3ltBvRct8LZ-fJDVPjPN4Wf-i5paRiY-d5aLQRLsjADPXE#action=whatsapp" }
     ]
   },
   {
     "nombre": "Marylu",
     "regalos": [
-      { "nombre": "Juego de 3 sartenes", "link": "https://www.mercadolibre.com.mx/p/MLM54068207?matt_tool=17030900&pdp_filters=item_id:MLM4016854572&ua=_RsjMcu2qhy8x0h_5f3lZlv4UnWVl7f0x8m9TEuuil0OCvQ#origin=share&sid=share&wid=MLM4016854572&action=whatsapp" }
+      { "opcion": 1, "nombre": "Juego de 3 sartenes", "link": "https://www.mercadolibre.com.mx/p/MLM54068207?matt_tool=17030900&pdp_filters=item_id:MLM4016854572&ua=_RsjMcu2qhy8x0h_5f3lZlv4UnWVl7f0x8m9TEuuil0OCvQ#origin=share&sid=share&wid=MLM4016854572&action=whatsapp" }
     ]
   },
   {
     "nombre": "Paola",
     "regalos": [
-      { "nombre": "Zapatera Antipolvo 7 Niveles", "link": "https://www.mercadolibre.com.mx/zapatera-antipolvo-7-niveles-organizador-de-zapatos-armable/up/MLMU4950624471?pdp_filters=item_id%3AMLM3404774083&matt_tool=17030900&ua=EC-A8zJSz9LWsngI1SLygkLqHLJVps4L3Isne1Wa9hLvxex5#origin=whatsapp&sid=whatsapp&wid=MLM3404774083" },
-      { "nombre": "Edredón Gatos Ligero Matrimonial", "link": "https://www.mercadolibre.com.mx/edredon-gatos-ligero-matrimonial-2-vistas/p/MLM22318965?pdp_filters=item_id%3AMLM2346299398&matt_tool=17030900&ua=PeMKqFjAykqw5i2bX--jfg2F6c8las189XbJm8qX4mvd6hQD#origin=whatsapp&sid=whatsapp&wid=MLM2346299398" }
+      { "opcion": 1, "nombre": "Zapatera Antipolvo 7 Niveles", "link": "https://www.mercadolibre.com.mx/zapatera-antipolvo-7-niveles-organizador-de-zapatos-armable/up/MLMU4950624471?pdp_filters=item_id%3AMLM3404774083&matt_tool=17030900&ua=EC-A8zJSz9LWsngI1SLygkLqHLJVps4L3Isne1Wa9hLvxex5#origin=whatsapp&sid=whatsapp&wid=MLM3404774083" },
+      { "opcion": 2, "nombre": "Edredón Gatos Ligero Matrimonial", "link": "https://www.mercadolibre.com.mx/edredon-gatos-ligero-matrimonial-2-vistas/p/MLM22318965?pdp_filters=item_id%3AMLM2346299398&matt_tool=17030900&ua=PeMKqFjAykqw5i2bX--jfg2F6c8las189XbJm8qX4mvd6hQD#origin=whatsapp&sid=whatsapp&wid=MLM2346299398" }
     ]
   },
   {
     "nombre": "Vania",
     "regalos": [
-      { "nombre": "Detalles: Color Rosa", "link": "https://articulo.mercadolibre.com.mx/MLM-4750064774-closet-armario-con-cajas-organizadoras-de-ropa-para-ninos-_JM?matt_tool=17030900&ua=7N4SKcEkgmqwwxzJdYP3ghMvqRCdKQn2h3Ne6HEHItk5_j4y#origin=whatsapp&sid=whatsapp"}
+      { "opcion": 1, "nombre": "Detalles: Color Rosa", "link": "https://articulo.mercadolibre.com.mx/MLM-4750064774-closet-armario-con-cajas-organizadoras-de-ropa-para-ninos-_JM?matt_tool=17030900&ua=7N4SKcEkgmqwwxzJdYP3ghMvqRCdKQn2h3Ne6HEHItk5_j4y#origin=whatsapp&sid=whatsapp"}
     ]
   },
   {
     "nombre": "Chilaca",
     "regalos": [
-      { "nombre": "Opción 1", "link": "#" },
-      { "nombre": "Opción 2", "link": "#" },
-      { "nombre": "Opción 3", "link": "#" }
+      { "opcion": 1, "nombre": "Opción 1", "link": "#" },
+      { "opcion": 2, "nombre": "Opción 2", "link": "#" },
+      { "opcion": 3, "nombre": "Opción 3", "link": "#" }
     ]
   },
   {
     "nombre": "Mia",
     "regalos": [
-      { "nombre": "Opción 1", "link": "#" },
-      { "nombre": "Opción 2", "link": "#" },
-      { "nombre": "Opción 3", "link": "#" }
+      { "opcion": 1, "nombre": "Opción 1", "link": "#" },
+      { "opcion": 2, "nombre": "Opción 2", "link": "#" },
+      { "opcion": 3, "nombre": "Opción 3", "link": "#" }
     ]
   },
   {
     "nombre": "Danna",
     "regalos": [
-      { "nombre": "UGREEN 10000mAh Power Bank Inalámbrico Color: Negro", "link": "https://www.amazon.com.mx/gp/product/B0CH33F5P2/ref=ewc_pr_img_1?smid=AKXVBT49GGF3B&th=1" },
-      { "nombre": "Amazon Echo Pop Color: Negro", "link": "https://www.amazon.com.mx/gp/product/B09WNK39JN/ref=ewc_pr_img_1?smid=AVDBXBAVVSXLQ&th=1" },
-      { "nombre": "Sudadera", "link": "https://www.bershka.com/mx/sudadera-cremallera-capucha-oversize-ranglan-c0p226931271.html?colorId=800" }
+      { "opcion": 1, "nombre": "UGREEN 10000mAh Power Bank Inalámbrico Color: Negro", "link": "https://www.amazon.com.mx/gp/product/B0CH33F5P2/ref=ewc_pr_img_1?smid=AKXVBT49GGF3B&th=1" },
+      { "opcion": 2, "nombre": "Amazon Echo Pop Color: Negro", "link": "https://www.amazon.com.mx/gp/product/B09WNK39JN/ref=ewc_pr_img_1?smid=AVDBXBAVVSXLQ&th=1" },
+      { "opcion": 3, "nombre": "Sudadera", "link": "https://www.bershka.com/mx/sudadera-cremallera-capucha-oversize-ranglan-c0p226931271.html?colorId=800" }
     ]
   },
   {
     "nombre": "Diana",
     "regalos": [
-      { "nombre": "Opción 1", "link": "#" },
-      { "nombre": "Opción 2", "link": "#" },
-      { "nombre": "Opción 3", "link": "#" }
+      { "opcion": 1, "nombre": "Opción 1", "link": "#" },
+      { "opcion": 2, "nombre": "Opción 2", "link": "#" },
+      { "opcion": 3, "nombre": "Opción 3", "link": "#" }
     ]
   },
   {
     "nombre": "Giovanna",
     "regalos": [
-      { "nombre": "Efectivo 💵", "link": "https://i.pinimg.com/originals/06/e4/38/06e438bb03983a7c7087618f20b2c25a.gif" }
+      { "opcion": 1, "nombre": "Efectivo 💵", "link": "https://i.pinimg.com/originals/06/e4/38/06e438bb03983a7c7087618f20b2c25a.gif" }
     ]
   },
   {
     "nombre": "Luis Mario",
     "regalos": [
-      { "nombre": "Salvatore Ferragamo Intense Leather", "link": "https://www.amazon.com.mx/gp/product/B08XJSFDY2/ref=ewc_pr_img_1?smid=A29QI9OW026IXY&psc=1" },
-      { "nombre": "Montblanc - Agua de perfume espray", "link": "https://www.amazon.com.mx/gp/product/B07K1BW1XY/ref=ewc_pr_img_1?smid=AWXS086SB3NIZ&th=1" },
-      { "nombre": "HUGO BOSS Number One", "link": "https://www.amazon.com.mx/gp/product/B000C21488/ref=ewc_pr_img_1?smid=AVDBXBAVVSXLQ&th=1" }
+      { "opcion": 1, "nombre": "Salvatore Ferragamo Intense Leather", "link": "https://www.amazon.com.mx/gp/product/B08XJSFDY2/ref=ewc_pr_img_1?smid=A29QI9OW026IXY&psc=1" },
+      { "opcion": 2, "nombre": "Montblanc - Agua de perfume espray", "link": "https://www.amazon.com.mx/gp/product/B07K1BW1XY/ref=ewc_pr_img_1?smid=AWXS086SB3NIZ&th=1" },
+      { "opcion": 3, "nombre": "HUGO BOSS Number One", "link": "https://www.amazon.com.mx/gp/product/B000C21488/ref=ewc_pr_img_1?smid=AVDBXBAVVSXLQ&th=1" }
     ]
   },
   {
     "nombre": "Karla",
     "regalos": [
-      { "nombre": "Opción 1", "link": "#" },
-      { "nombre": "Opción 2", "link": "#" },
-      { "nombre": "Opción 3", "link": "#" }
+      { "opcion": 1, "nombre": "Opción 1", "link": "#" },
+      { "opcion": 2, "nombre": "Opción 2", "link": "#" },
+      { "opcion": 3, "nombre": "Opción 3", "link": "#" }
     ]
   },
   {
     "nombre": "Lupe",
     "regalos": [
-      { "nombre": "Color: Rojo Oscuro Talla: M", "link": "https://www2.hm.com/es_mx/productpage.1351030002.html?media_type=image" },
-      { "nombre": "Opción 2", "link": "#" },
-      { "nombre": "Opción 3", "link": "#" }
+      { "opcion": 1, "nombre": "Color: Rojo Oscuro Talla: M", "link": "https://www2.hm.com/es_mx/productpage.1351030002.html?media_type=image" },
+      { "opcion": 2, "nombre": "Opción 2", "link": "#" },
+      { "opcion": 3, "nombre": "Opción 3", "link": "#" }
     ]
   },
   {
     "nombre": "Pepe",
     "regalos": [
-      { "nombre": "Opción 1", "link": "#" },
-      { "nombre": "Opción 2", "link": "#" },
-      { "nombre": "Opción 3", "link": "#" }
+      { "opcion": 1, "nombre": "Opción 1", "link": "#" },
+      { "opcion": 2, "nombre": "Opción 2", "link": "#" },
+      { "opcion": 3, "nombre": "Opción 3", "link": "#" }
     ]
   },
   {
     "nombre": "Silvia",
     "regalos": [
-      { "nombre": "Opción 1", "link": "#" },
-      { "nombre": "Opción 2", "link": "#" },
-      { "nombre": "Opción 3", "link": "#" }
+      { "opcion": 1, "nombre": "Opción 1", "link": "#" },
+      { "opcion": 2, "nombre": "Opción 2", "link": "#" },
+      { "opcion": 3, "nombre": "Opción 3", "link": "#" }
     ]
   }
 ]
