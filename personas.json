@@ -17,9 +17,9 @@
   {
     "nombre": "Emilio",
     "regalos": [
-      { "nombre": "Opcion 1", "link": "#" },
-      { "nombre": "Opcion 2", "link": "#" },
-      { "nombre": "Opcion 3", "link": "#" }
+      { "opcion": 1, "nombre": "Opcion 1", "link": "#" },
+      { "opcion": 2, "nombre": "Opcion 2", "link": "#" },
+      { "opcion": 3, "nombre": "Opcion 3", "link": "#" }
     ]
   },
   {
