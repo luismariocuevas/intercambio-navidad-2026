@@ -154,9 +154,8 @@
   {
     "nombre": "Silvia",
     "regalos": [
-      { "opcion": 1, "nombre": "Opción 1", "link": "#" },
-      { "opcion": 2, "nombre": "Opción 2", "link": "#" },
-      { "opcion": 3, "nombre": "Opción 3", "link": "#" }
+      { "opcion": 1, "nombre": "PARIS HILTON Eau de toilette para mujer", "link": "https://www.liverpool.com.mx/tienda/pdp/eau-de-toilette-para-mujer/1133797501?skuId=1133797501" },
+      { "opcion": 2, "nombre": "MAISON ALHAMBRA Eau de parfum para mujer", "link": "https://www.liverpool.com.mx/tienda/pdp/eau-de-parfum-para-mujer/1189207413?skuId=1189207413" }
     ]
   }
 ]
