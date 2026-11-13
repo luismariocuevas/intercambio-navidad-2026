@@ -146,9 +146,8 @@
   {
     "nombre": "Pepe",
     "regalos": [
-      { "opcion": 1, "nombre": "Opción 1", "link": "#" },
-      { "opcion": 2, "nombre": "Opción 2", "link": "#" },
-      { "opcion": 3, "nombre": "Opción 3", "link": "#" }
+      { "opcion": 1, "nombre": "THE CHILDREN'S PLACE Conjunto pijama para niño", "link": "https://www.liverpool.com.mx/tienda/pdp/conjunto-pijama-para-nio/1196725324?skuId=1196725357" },
+      { "opcion": 2, "nombre": "THE CHILDREN'S PLACE Conjunto pijama para niño", "link": "https://www.liverpool.com.mx/tienda/pdp/conjunto-pijama-the-childrens-place-para-nio/1196724778?skuId=1196724806" }
     ]
   },
   {
