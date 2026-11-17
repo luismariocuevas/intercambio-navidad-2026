@@ -17,9 +17,9 @@
   {
     "nombre": "Emilio",
     "regalos": [
-      { "opcion": 1, "nombre": "Opcion 1", "link": "#" },
-      { "opcion": 2, "nombre": "Opcion 2", "link": "#" },
-      { "opcion": 3, "nombre": "Opcion 3", "link": "#" }
+      { "opcion": 1, "nombre": "Under Armour Heatgear Color Blanco Talla M", "link": "https://www.amazon.com.mx/dp/B0874X381B?ref=cm_sw_r_cso_wa_apin_dp_5YP182GPPEJN5YARHM58&ref_=cm_sw_r_cso_wa_apin_dp_5YP182GPPEJN5YARHM58&social_share=cm_sw_r_cso_wa_apin_dp_5YP182GPPEJN5YARHM58&newPreview=2&th=1&psc=1" },
+      { "opcion": 2, "nombre": "Opcion 2", "link": "https://www.nike.com/mx/t/playera-de-tenis-dri-fit-para-hombre-nikecourt-1yBMguim/IM9659-100?referrer=singular_click_id%3Dde8eb3bd-2126-4fef-b278-ff1be1998c74" },
+      { "opcion": 3, "nombre": "Maleta Deportiva Hombre", "link": "https://www.amazon.com.mx/dp/B0987RZJN3?ref=cm_sw_r_cso_wa_apin_dp_RSQ623FTRQC54388EE95&ref_=cm_sw_r_cso_wa_apin_dp_RSQ623FTRQC54388EE95&social_share=cm_sw_r_cso_wa_apin_dp_RSQ623FTRQC54388EE95&newPreview=2" }
     ]
   },
   {
@@ -85,17 +85,16 @@
   {
     "nombre": "Chilaca",
     "regalos": [
-      { "opcion": 1, "nombre": "Opción 1", "link": "#" },
-      { "opcion": 2, "nombre": "Opción 2", "link": "#" },
-      { "opcion": 3, "nombre": "Opción 3", "link": "#" }
+      { "opcion": 1, "nombre": "JBL Bocina portátil Go 5 Negro", "link": "https://www.amazon.com.mx/dp/B0GHYJ7BS9?ref=cm_sw_r_cso_wa_apan_dp_VZSNR6BAQS5ERZ9KEHFG&ref_=cm_sw_r_cso_wa_apan_dp_VZSNR6BAQS5ERZ9KEHFG&social_share=cm_sw_r_cso_wa_apan_dp_VZSNR6BAQS5ERZ9KEHFG&th=1" },
+      { "opcion": 2, "nombre": "Bocina Portatil Xiaomi Sound", "link": "https://www.mercadolibre.com.mx/p/MLM61870757?matt_tool=17030900&pdp_filters=item_id%3AMLM5406965496&ua=dmQIQL1g5tEliUmR_2VZ--8Wx-i4dGymMT2ezMiMvHs7f38R#origin=share&sid=share&wid=MLM5406965496" }
     ]
   },
   {
     "nombre": "Mia",
     "regalos": [
-      { "opcion": 1, "nombre": "Opción 1", "link": "#" },
-      { "opcion": 2, "nombre": "Opción 2", "link": "#" },
-      { "opcion": 3, "nombre": "Opción 3", "link": "#" }
+      { "opcion": 1, "nombre": "20 Colores Plumones Doble", "link": "https://www.mercadolibre.com.mx/p/MLM80783407?matt_tool=17030900&pdp_filters=item_id%3AMLM3063225562&ua=atbej3nTis84t29aw1IIRJ8TKGA0HiMyNWRv8StTuMa5lss#origin=share&sid=share&wid=MLM3063225562" },
+      { "opcion": 2, "nombre": "Cuaderno Profesional | 100 Hojas", "link": "https://www.mercadolibre.com.mx/up/MLMU3354072394?matt_tool=17030900&pdp_filters=item_id%3AMLM2401503031&ua=KuU1mdzGuGK5eVP-NO-Yl6IkczB4wtblsD5slgYt1etZkwc#origin=share&sid=share&wid=MLM2401503031" },
+      { "opcion": 3, "nombre": "Marcadores Iforu Doble Punta", "link": "https://www.mercadolibre.com.mx/p/MLM28981116?matt_tool=17030900&pdp_filters=item_id%3AMLM2991862062&ua=mfICkVFAcuR1ikfdh9yRIujh5Fq-bGLrM0WhGXk-UJNbpFo#origin=share&sid=share&wid=MLM2991862062" }
     ]
   },
   {
